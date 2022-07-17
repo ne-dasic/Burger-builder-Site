@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Burger-builder-Site/static/css/main.5ecfb0bd.css",
+    "main.js": "/Burger-builder-Site/static/js/main.b25865e2.js",
+    "static/js/787.179c4ddc.chunk.js": "/Burger-builder-Site/static/js/787.179c4ddc.chunk.js",
+    "static/media/lettuce.png": "/Burger-builder-Site/static/media/lettuce.77afd61d60d332e9f1fd.png",
+    "static/media/burger-pattys.jpg": "/Burger-builder-Site/static/media/burger-pattys.b937678326296b1e44c6.jpg",
+    "static/media/cheese.jpg": "/Burger-builder-Site/static/media/cheese.25400348dd5e8436a416.jpg",
+    "static/media/bacon.jpg": "/Burger-builder-Site/static/media/bacon.309973f7e1263c95f477.jpg",
+    "static/media/salad.jpg": "/Burger-builder-Site/static/media/salad.a49903de161b244f0d64.jpg",
+    "static/media/burger-logo.png": "/Burger-builder-Site/static/media/burger-logo.5c48de81e29cb24a33fc.png",
+    "static/media/Top-Bunn.png": "/Burger-builder-Site/static/media/Top-Bunn.546ab905307b6e4f827b.png",
+    "static/media/BunnBottom2.png": "/Burger-builder-Site/static/media/BunnBottom2.8f252f329eb51e0e0cc9.png",
+    "static/media/chese.png": "/Burger-builder-Site/static/media/chese.6b4496200f0173c7a233.png",
+    "static/media/Meat1.png": "/Burger-builder-Site/static/media/Meat1.3ff67985c520faecaa8d.png",
+    "static/media/Bacon1.png": "/Burger-builder-Site/static/media/Bacon1.24425e0d048ff18a381d.png",
+    "static/media/Menu.png": "/Burger-builder-Site/static/media/Menu.e5df6d66bb5f39701c70.png",
+    "static/media/Table3.jpg": "/Burger-builder-Site/static/media/Table3.c50f14bcc24d815c3e26.jpg",
+    "static/media/Page.png": "/Burger-builder-Site/static/media/Page.472067f0fad3326503d2.png",
+    "index.html": "/Burger-builder-Site/index.html",
+    "main.5ecfb0bd.css.map": "/Burger-builder-Site/static/css/main.5ecfb0bd.css.map",
+    "main.b25865e2.js.map": "/Burger-builder-Site/static/js/main.b25865e2.js.map",
+    "787.179c4ddc.chunk.js.map": "/Burger-builder-Site/static/js/787.179c4ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ecfb0bd.css",
+    "static/js/main.b25865e2.js"
+  ]
+}
